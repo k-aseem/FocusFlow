@@ -1,0 +1,21 @@
+# Dependencies
+## Folder containing all npm installed packages
+/node_modules       
+## Log file created when npm encounters an error
+npm-debug.log      
+
+# Environment variables
+.env
+
+# Build outputs
+## Output folder for production builds (common in React)
+/build
+## Distribution folder (common in many frameworks)
+/dist
+
+# IDE specific files
+## Visual Studio Code settings folder
+.vscode/
+## MacOS system file that stores folder attributes
+.DS_Store
+
