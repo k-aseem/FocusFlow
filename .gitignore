@@ -1,6 +1,6 @@
 # Dependencies
 ## Folder containing all npm installed packages
-/node_modules       
+node_modules/   
 ## Log file created when npm encounters an error
 npm-debug.log      
 
