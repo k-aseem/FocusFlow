@@ -8,9 +8,9 @@ npm-debug.log
 .env
 
 # Build outputs
-## Output folder for production builds (common in React)
+## Output folder for production builds
 /build
-## Distribution folder (common in many frameworks)
+## Distribution folder 
 /dist
 
 # IDE specific files
