@@ -19,3 +19,5 @@ npm-debug.log
 ## MacOS system file that stores folder attributes
 .DS_Store
 
+# Other
+Run_Commands.txt
